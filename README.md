@@ -1,5 +1,5 @@
 <h1 align="right">Hi 👋, I'm Ismael N</h1>
-<h3 align="center">A passionate frontend developer from Kenya.</h3>
+<h3 align="center" style="Text-weight: Bold">A passionate frontend developer from Kenya.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ismael-njihia" alt="ismael-njihia" /></a> </p>
 
