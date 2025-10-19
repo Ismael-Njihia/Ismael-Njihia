@@ -10,4 +10,4 @@
 
 👨‍💻 All my projects are available here → GitHub
 
-📫 Reach me at IshmaelNjihia@gmail.com
+📫 Reach me at engishmaelnjihia@gmail.com
